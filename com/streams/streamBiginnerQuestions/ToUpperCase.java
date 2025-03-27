@@ -1,9 +1,8 @@
-package com.streams;
+package com.streams.streamBiginnerQuestions;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
-import java.util.stream.Collectors;
 
 /*
 Convert List of Strings to Uppercase.
