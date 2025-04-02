@@ -1,9 +1,8 @@
-package com.streams;
+package com.streams.streamMediumQuestions;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Objects;
 
 /*
 Remove null and empty values from a list
